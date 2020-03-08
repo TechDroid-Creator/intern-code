@@ -31,5 +31,5 @@ For each of these repositories, based on user input m displays the top "m" most 
 
 Since Github's APi for search has rate-limiting of 5000 requests per hour implemented, for large organisations with a lot of repos the code fails. 
 
-When trying to run the program for various tets cases in short intervals of time, if the peogram pops an error as show in error1.jpg refer to public-token-list.txt to bypass this restriction.
+When trying to run the program for various test cases in short intervals of time, if the program pops an error as shown in error1.jpg refer to public-token-list.txt to bypass this restriction.
 
