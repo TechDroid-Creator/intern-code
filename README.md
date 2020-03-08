@@ -25,7 +25,7 @@ m - top "m" contributors for each of the n forked repos
 
 Uses the Github API 3.0 to run through an organisation's github repo and sorts the most forked repositories based on the user input - n.
 
-For each of these repositories, based on user input m displays the top "m" most contributors along with thir commits for the repo.
+For each of these repositories, based on user input m displays the top "m" most contributors along with their commits for the repo.
 
 # Issues  
 
