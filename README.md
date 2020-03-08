@@ -14,8 +14,11 @@ Check if the package is installed by importing github in shell if no error is pr
 # Running the program
 
 run Github_scraper.py
+
 org input - examples include - github,yuzu-emu,google,microsoft
+
 n - top "n" number of forked repos
+
 m - top "m" contributors for each of the n forked repos
 
 # Github-Scraper  
