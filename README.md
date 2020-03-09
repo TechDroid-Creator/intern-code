@@ -3,13 +3,17 @@ Github Scraper using Python
 
 # Pre-requisites 
 
-PyGithub - 
+1) PyGithub - 
 
 run  in terminal/powershell/cmd -
 
 pip install pygithub
 
 Check if the package is installed by importing github in shell if no error is produced the package is installed properly.
+
+2) Obtain user token to run the program by following steps from encoded-token-list.txt
+
+3) Update value for ACCESS_TOKEN in Github_Scraper.py 
 
 # Running the program
 
