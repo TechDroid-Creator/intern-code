@@ -1,0 +1,15 @@
+The following list contains 5 access tokens encoded in base64 format copy each of them individually and paste it in the decode section on 
+
+https://www.base64decode.org/. On obtaining the 5 tokens individually replace the value within quotes for ACCESS_TOKEN in Github_Scraper.py and run the program on encountering the error 403 as shown error1.jpg
+
+ZDA4YWNhMDczNjRiNTJkN2IyY2NhODQ0NmQ1ZDJjMzYyY2YzZTNiOQ==
+OGJjZGExMTliMWFjMjlmZTljOTJmYmUxZTBkMmY4NWU5ZTMxZmQ4OQ==
+ZTBiNDhmZGMzYzRhYzM3ODk5MzI0ZDljNmE2YmNjZDBiZjUxNjMxMQ==
+ZGEyMzIzYmI1Y2FjYTAyNzVkYjdmNmJiZGM4ZTJmNDRjMmZmZDUxZg==
+OGVmYzFlNWRlZjhhNjI5YjQ2NWJlMjAxMjE5NDYzYzYxMmVlODU1MA==
+
+If a bad credentials error is thrown, you can always generate a personal access token yourself by following the steps listed over at - 
+
+https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
+
+and checking the repo option in step number 7 
