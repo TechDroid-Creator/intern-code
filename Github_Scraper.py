@@ -5,7 +5,7 @@ ACCESS_TOKEN = 'insert token here' #required for API calls
 g = Github(ACCESS_TOKEN)
 
 try:
-    org=input("Enter the organisation name (org): ") #ex - google,microsoft,github
+    org=input("Enter the organisation name (org): ") 
     repositories = g.search_repositories(query='org:{}'.format(org))
     req_num=int(input("\nEnter the number of top forked repos to be searched (n):"))
     m_contributors=int(input("\nEnter the number of top contributors to be searched for (m):"))
