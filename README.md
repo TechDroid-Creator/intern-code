@@ -37,3 +37,4 @@ Since Github's API for search has rate-limiting of 5000 requests per hour implem
 
 When trying to run the program for various test cases in short intervals of time, if the program pops an error as shown in error1.jpg refer to encoded-token-list.txt to bypass this restriction.
 
+Few possible solutiosn to bypass the rate-limiting can be found at https://stackoverflow.com/questions/13394077/is-there-a-way-to-increase-the-api-rate-limit-or-to-bypass-it-altogether-for-git
