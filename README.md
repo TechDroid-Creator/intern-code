@@ -11,7 +11,7 @@ Github Scraper using Python
 
    Check if the package is installed by importing github in shell if no error is produced the package is installed properly.
 
-2) Obtain user token to run the program by following steps from encoded-token-list.txt
+2) Obtain user token i.e - ACCESS_TOKEN  to run the program by following steps from encoded-token-list.txt
 
 3) Update value for ACCESS_TOKEN in Github_Scraper.py 
 
