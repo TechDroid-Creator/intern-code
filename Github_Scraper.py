@@ -54,7 +54,4 @@ try:
                 print("------------------------------------------------------------------------------------")
 except Exception as e:
     print('The following {} exception occured'.format(e))
-    if(e!='403 {"message": "API rate limit exceeded for user ID 61905479.", "documentation_url": "https://developer.github.com/v3/#rate-limiting"}'):
-        print("Please check entered values and try again!")
-    else:
-        print("Change user access token and re-run the program")
+    print("Please check the values or change token and re-run the program")
