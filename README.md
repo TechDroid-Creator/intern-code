@@ -15,7 +15,7 @@ Check if the package is installed by importing github in shell if no error is pr
 
 run Github_scraper.py
 
-org input - examples include - github,yuzu-emu,google,microsoft
+org input - examples include - amzn(amazon),westerndigitalcorporation(WD),github(Github),google(Google),microsoft(Microsoft)
 
 n - top "n" number of forked repos
 
