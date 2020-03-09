@@ -25,11 +25,11 @@ m - top "m" contributors for each of the n forked repos
 
 Uses the Github API 3.0 to run through an organisation's github repo and sorts the most forked repositories based on the user input - n.
 
-For each of these repositories, based on user input m displays the top "m" most contributors along with their commits for the repo.
+For each of these repositories, based on user input m displays the top "m" most contributors along with their commit counts for the repo.
 
 # Issues  
 
-Since Github's APi for search has rate-limiting of 5000 requests per hour implemented, for large organisations with a lot of repos the code fails. 
+Since Github's API for search has rate-limiting of 5000 requests per hour implemented, for large organisations with a lot of repos the code fails. 
 
-When trying to run the program for various test cases in short intervals of time, if the program pops an error as shown in error1.jpg refer to public-token-list.txt to bypass this restriction.
+When trying to run the program for various test cases in short intervals of time, if the program pops an error as shown in error1.jpg refer to encoded-token-list.txt to bypass this restriction.
 
